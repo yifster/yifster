@@ -22,7 +22,7 @@ Civil and Environmental Engineer passionate about shaping sustainable urban mobi
 - Developed strategic designs aligned with City of Sydney objectives
 
 ### Model Based System Engineering (MBSE) Pilot
-- Contributed to Australia's first MBSE implementation for transport infrastructure
+- Contributed to MBSE implementation for transport infrastructure
 - Developed standardized processes for design safety requirements
 - Collaborated with international specialists on proof of concept
 
